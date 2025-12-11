@@ -1,13 +1,3 @@
-<p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/130545652?v=4" 
-    alt="Brijesh Gangwar" 
-    width="180" 
-    height="180"
-    style="border-radius:50%;"
-  />
-</p>
-
 <h1 align="center">Brijesh Gangwar</h1>
 
 # 💫 About Me
