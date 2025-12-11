@@ -1,10 +1,32 @@
-<h1 align="center">Brijesh Gangwar</h1>
-# 💫 About Me:
-Hi there! 👋<br><br>I’m a final-year Computer Science student and full-stack developer skilled in building scalable backend systems and high-performance mobile apps using **Spring Boot, Microservices, Kafka and Flutter. I’ve developed production-ready solutions including e-commerce platforms, AI tools, GIS systems, and on-demand service apps.
-I work with MySQL, PostgreSQL, MongoDB, Redis, and cloud deployments on AWS EC2, Docker, Render, and Vercel. As an open-source contributor with 1000+ downloads and a Smart India Hackathon 2023 winner, I enjoy building reliable, real-time systems and am seeking full-time opportunities to contribute to impactful products. 🚀
-<div align="center"> 
-
 <p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/130545652?v=4" 
+    alt="Brijesh Gangwar" 
+    width="180" 
+    height="180"
+    style="border-radius:50%;"
+  />
+</p>
+
+<h1 align="center">Brijesh Gangwar</h1>
+
+# 💫 About Me
+Hi there! 👋  
+
+I’m a final-year Computer Science student and full-stack developer skilled in building **scalable backend systems** and **high-performance mobile apps** using **Spring Boot, Microservices, Kafka, and Flutter**.
+
+I’ve developed production-ready solutions including:  
+✅ E-commerce platforms  
+✅ AI-powered tools  
+✅ GIS-based collaboration systems  
+✅ On-demand service apps  
+
+I work with **MySQL, PostgreSQL, MongoDB, Redis**, and cloud deployments using **AWS EC2, Docker, Render, and Vercel**.  
+As an **open-source contributor with 1000+ downloads** and **Smart India Hackathon 2023 Winner**, I love building reliable, real-time systems and I’m seeking opportunities to contribute to impactful products. 🚀
+
+---
+
+<div align="center">
   <a href="https://www.linkedin.com/in/brijesh-gangwar-540a012a1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -17,7 +39,7 @@ I work with MySQL, PostgreSQL, MongoDB, Redis, and cloud deployments on AWS EC2,
   <a href="https://portfolio-green-five-13.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
@@ -61,8 +83,9 @@ I work with MySQL, PostgreSQL, MongoDB, Redis, and cloud deployments on AWS EC2,
 ## 🧩 Open Source Contribution  
 
 ### 🔹 **osm_path_tracker (Flutter GPS Navigation Package)**  
-🔗 Package: https://pub.dev/packages/osm_path_tracker 
-🔗 Source: https://github.com/Brijesh-gangwar/osm_path_tracker   
+🔗 **Package:** https://pub.dev/packages/osm_path_tracker  
+🔗 **Source:** https://github.com/Brijesh-gangwar/osm_path_tracker  
+
 - 1000+ downloads on pub.dev  
 - Real-time GPS tracking with optimized distance filtering  
 - Improved path precision by **30%** and reduced jitter  
@@ -70,8 +93,8 @@ I work with MySQL, PostgreSQL, MongoDB, Redis, and cloud deployments on AWS EC2,
 ---
 
 ## 🏆 Achievements  
-- 🥇 **Smart India Hackathon Winner 2023**  
-- 🏅 **Grand Finalist 2024**  
+- 🥇 **Smart India Hackathon Winner (2023)**  
+- 🏅 **Grand Finalist (2024)**  
 - 📦 Maintainer of **osm_path_tracker** (1000+ downloads)
 
 ---
